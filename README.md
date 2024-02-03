@@ -5,4 +5,4 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,javascript,react,python,django)](https://skillicons.dev)
 
 ### Socials
-[![LinkedIn]("C:\Users\bohda\OneDrive\Рабочий стол\linkedin.svg")](https://www.linkedin.com/in/bohdan-putiak-2b39ba28a/)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/bohdan-putiak-2b39ba28a/)
